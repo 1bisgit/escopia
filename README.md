@@ -7,3 +7,32 @@
 a escopia tool é uma ferramenta que tem a função de derrubar contas do insta 
 
 o nome da ferramenta vem da capital da macedonia do norte um país que gosto muito
+
+
+como utilizar?
+
+
+
+
+
+
+
+
+
+git clone https://github.com/1bisgit/escopia
+
+
+
+
+
+
+
+
+
+
+cd escopia
+
+
+
+
+python3 escopia.py
