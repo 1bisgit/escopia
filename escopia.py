@@ -10,7 +10,7 @@ print('''
                     | |                        __/ |
                     |_|                       |___/ 
 ''')
-user = input("Insira o usuário do Instagram: ")
+user = input("Insira o link do Usuario Instagram: ")
 def denunciar_conta():
     url = 'https://www.instagram.com/' + user
     payload = {'action': 'report_account'}
